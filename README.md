@@ -1,2 +1,2 @@
-# python-programming-course
+# Python Programming Course
 Python Programming Course
